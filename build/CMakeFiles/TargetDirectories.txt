@@ -1,0 +1,3 @@
+/home/giftx/code/cpp/snake-game/build/CMakeFiles/main.dir
+/home/giftx/code/cpp/snake-game/build/CMakeFiles/edit_cache.dir
+/home/giftx/code/cpp/snake-game/build/CMakeFiles/rebuild_cache.dir

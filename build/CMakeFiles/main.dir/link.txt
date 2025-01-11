@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic -Wl,--dependency-file=CMakeFiles/main.dir/link.d CMakeFiles/main.dir/main.cpp.o -o main  /usr/lib/libraylib.so -L/usr/lib -lraylib
